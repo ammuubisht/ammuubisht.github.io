@@ -1,0 +1,121 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Serif+Display:regular,italic);
+
+
+.about-cont{
+    margin-top: 25vh;
+    padding-left: 18rem;
+    padding-right: 18rem;
+    margin-bottom: 25vh;
+    display: flex;
+    align-items: center;
+}
+
+.greeting{
+    font-family: 'DM Serif Display', serif;
+    color: #373737;
+    font-size: 28px;
+}
+
+.about-me-content{
+    color: #373737;
+    font-size: 16px;
+    width: 90%;
+}
+
+.about-img{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    object-fit: cover;
+    aspect-ratio: 1;
+}
+
+.carousel{
+    display: flex;
+    margin: 0 auto;
+    width: 75%;
+
+    
+}
+
+.glimpse-text{
+    text-align: center;
+    color: #5b5b63;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.carousel-img{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    object-fit: cover;
+    aspect-ratio: 1;
+    border-radius: 5px;
+}
+
+
+@media screen and (max-width:768px) {
+    .about-cont{
+        margin-top: 15vh;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        margin-bottom: 0vh;
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    
+    .greeting{
+        font-family: 'DM Serif Display', serif;
+        color: #373737;
+        font-size: 26px;
+        padding-left: 0rem;
+
+    }
+
+    .about-text{
+        width: 80%;
+        margin: 0 auto;
+
+    }
+    
+    .about-me-content{
+        color: #373737;
+        font-size: 14px;
+        width: 100%;
+
+    }
+    
+    .about-img{
+        width: 250px;
+        height: 250px;
+        border-radius: 10px;
+        object-fit: cover;
+        aspect-ratio: 1;
+    }
+    
+    .carousel{
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+        width: 100%;
+    
+    }
+    
+    .glimpse-text{
+        text-align: center;
+        color: #5b5b63;
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+    .carousel-img{
+        width: 80px;
+        height: 80px;
+        margin: 5px;
+        object-fit: cover;
+        aspect-ratio: 1;
+        border-radius: 5px;
+    }
+    
+}
