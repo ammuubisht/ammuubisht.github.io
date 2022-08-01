@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee02aa01.css",
+    "main.js": "/static/js/main.c54f015d.js",
+    "static/js/787.fc0af5ec.chunk.js": "/static/js/787.fc0af5ec.chunk.js",
+    "static/media/Tungnath.jpg": "/static/media/Tungnath.c551b268e5f750bbadd1.jpg",
+    "static/media/hand.jpg": "/static/media/hand.1dbe69f262b3470cc432.jpg",
+    "static/media/about-img.jpg": "/static/media/about-img.97c914032eeaec4a8180.jpg",
+    "static/media/recitapp.jpg": "/static/media/recitapp.9f5eb9a198eb7185087e.jpg",
+    "static/media/Jaisalmer.jpg": "/static/media/Jaisalmer.2bb6988ceb3beb7d0d9f.jpg",
+    "static/media/Nainital.jpg": "/static/media/Nainital.0edc9c8c389a81025c4a.jpg",
+    "static/media/menderapp.jpg": "/static/media/menderapp.92cfbe3501ebc41ddb1a.jpg",
+    "static/media/Image.png": "/static/media/Image.b80f50c3180f3330aa84.png",
+    "static/media/anythapp.jpg": "/static/media/anythapp.0c0fbd886b6febd820ef.jpg",
+    "index.html": "/index.html",
+    "main.ee02aa01.css.map": "/static/css/main.ee02aa01.css.map",
+    "main.c54f015d.js.map": "/static/js/main.c54f015d.js.map",
+    "787.fc0af5ec.chunk.js.map": "/static/js/787.fc0af5ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee02aa01.css",
+    "static/js/main.c54f015d.js"
+  ]
+}
